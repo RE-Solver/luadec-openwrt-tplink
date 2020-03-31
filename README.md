@@ -16,6 +16,7 @@ luadec-openwrt-tplink  is free software and uses the same license as the origina
 Compiling
 ---------
 ```
+sudo apt install libncurses-dev libreadline-dev
 git clone https://github.com/RE-Solver/luadec-openwrt-tplink
 cd luadec-openwrt-tplink
 cd lua-5.1
