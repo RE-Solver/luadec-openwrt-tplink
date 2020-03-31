@@ -8,7 +8,7 @@ luadec-openwrt-tplink is a Lua decompiler for lua 5.1 , and experimental for lua
 However, this version is specifically patched for lua 5.1 according to the changes made by openwrt and some additions from TP-Link sources https://static.tp-link.com/resources/gpl/re220v2_gplcode.tar.gz
 
 
-It is based on viruscamp's luadec https://github.com/viruscamp/luadec and Hisham Muhammad's luadec which targeted lua 5.0.x and LuaDec51 by Zsolt Sz. Sztupak.
+This project is based on viruscamp's luadec https://github.com/viruscamp/luadec and Hisham Muhammad's luadec which targeted lua 5.0.x and LuaDec51 by Zsolt Sz. Sztupak.
 
 luadec-openwrt-tplink  is free software and uses the same license as the original LuaDec.
 
