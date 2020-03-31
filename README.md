@@ -1,6 +1,6 @@
 # luadec-openwrt-tplink
 
-This is an alpha version, decompile may fail but disassembly results looks great.
+This is an alpha version, decompiled lua may looks wrong but disassembly results looks great.
 
 Overview
 ========
