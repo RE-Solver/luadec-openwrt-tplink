@@ -41,3 +41,9 @@ Credits
 
 Originally forked from viruscamp's luadec https://github.com/viruscamp/luadec
 
+ihipop's blog post https://blog.ihipop.info/2018/05/5110.html
+
+Openwrt Project
+
+
+
