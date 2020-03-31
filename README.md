@@ -1,5 +1,6 @@
 # luadec-openwrt-tplink
 
+This is an alpha version, decompile may fail but disassembly results looks great.
 
 Overview
 ========
