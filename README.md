@@ -29,10 +29,12 @@ make LUAVER=5.1
 
 Usage
 -----
-* decompile lua binary file:  
-  luadec abc.luac  
 * disassemble lua source or binary  
     luadec -dis abc.lua  
+    
+* decompile lua binary file:  
+  luadec abc.luac  
+
 
 
 Use -h to get a complete list of usable parameters
